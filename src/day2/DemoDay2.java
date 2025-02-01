@@ -32,5 +32,7 @@ public class DemoDay2 {
 	}
 	
 	//The cool kids club
+
+	System.out.println("Java is Fun");
 	
 }
